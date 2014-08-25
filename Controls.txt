@@ -1,0 +1,62 @@
+CMD:
+
+java -classpath pircbot.jar;. Nitebot_main = join irc
+
+javac -classpath pircbot.jar;. *.java = compile
+
+cd c:\irc_bot = go to bot directory
+
+!test = displays time
+!login = logs in
+!n = checks for update when necessary
+!quit = leave irc
+
+!timer # # = specific time, 2nd # = wait, not necessary
+!rush # = 30 minutes, # = wait, not necessary
+!!help = displayes commands and helps
+!new = shows latest added commands
+!add names = adds names to pings
+!wpm # = words per minute
+!check = checks the time remaining
++1 name = gives internet point
+!join = adds sender to ping list
+!leave = sender leaves ping list
+!remove name = removes name from ping list
+!removeall = removes all names
+!list = shows ping list
+!g,!google,!lmgtfy = googles
+!w, !wiki = wikis
+!t, !thesaurus = thesauruses
+!d, !define, !dictionary = defines
+!r, !reference = references
+r/ = creates reddit link
+!about = talks about poad
+!poke/!poke name = pokes someone
++1
+-1
+!slay = kills someone
+!highfive = highfives poad
+!summon = fake summons someone
+
+pm commands:
+!chat on/off = activates Poads auto away reply
+!who name/channel = who is Poad talking to
+!say words = talk
+!act words = action
+!join room = join a room
+!part room = leave a room
+!quit = leave irc
+
+reply variations:
+fuck you
+hi
+i love you
+thanks
+take over
+do/is/should/can/are you ... ? / right?
+poad is a bot
+bye/gnight
+bad/good
+sup/hello/hi/hey
+who is/is poad a bot
+what is a sprint/rush
